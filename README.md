@@ -1,2 +1,2 @@
 # LAC-project
-[ICCV 2023] Latent Action Composition
+[ICCV 2023] Latent Action Composition website
